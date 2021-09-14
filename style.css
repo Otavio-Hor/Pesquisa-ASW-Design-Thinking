@@ -32,3 +32,9 @@ p{
 a{
 font-family: 'Roboto Slab', serif;
 }
+
+.PS, .PQ, .PC, .CA, main{
+    background-color: rgba(176, 141, 197, 0.39);
+  border: 1px rgba(119, 0, 255, 0.466) solid;
+  border-radius: 10px;
+}
