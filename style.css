@@ -38,3 +38,7 @@ font-family: 'Roboto Slab', serif;
   border: 1px rgba(119, 0, 255, 0.466) solid;
   border-radius: 10px;
 }
+img {
+  width:20%;
+  margin:150px;
+}
